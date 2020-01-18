@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "180921107197",
+    "firebase_url": "https://fir-auth-f580d.firebaseio.com",
+    "project_id": "fir-auth-f580d",
+    "storage_bucket": "fir-auth-f580d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180921107197:android:6768b1929645b01af1b494",
+        "android_client_info": {
+          "package_name": "ge.msda.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180921107197-9l4cdomqdqghdj1uod5c1lqn8vi45gec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.msda.firebaseauth",
+            "certificate_hash": "0007448f7932f83b7597a92dab6b30b6bcc184f9"
+          }
+        },
+        {
+          "client_id": "180921107197-akg5gq5klgjns0dd5n9tr1e3tqfqv2pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.msda.firebaseauth",
+            "certificate_hash": "0a1e9a9ae52b670fff2d3d5c08295e409c48a191"
+          }
+        },
+        {
+          "client_id": "180921107197-a7pr46ecv3ptln7h8ubuakd3p427h765.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.msda.firebaseauth",
+            "certificate_hash": "aed7bdc3c27c425a5be631df82b4a1f92cf2c909"
+          }
+        },
+        {
+          "client_id": "180921107197-cj1k6t39th65msumislkjed7orbq0klg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHUbzfQiwlb11OYw_vBxaHqL6rx20RsPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180921107197-cj1k6t39th65msumislkjed7orbq0klg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
